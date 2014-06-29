@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">com.google.cloud.kernel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="login_please">Login Please</string>
+    <string name="title_activity_manage_computes">ManageComputes</string>
+	<string name="list_networks">List Networks</string>
+	<string name="list_storages">List Storages</string>
+	<string name="list_computes">List Computes</string>
+	<string name="list_instances">List Instances</string>
+	<string name="uid">uid</string>
+	<string name = "type">type</string>
+	<string name="manage_networks">manage networks</string>
+	<string name="force_update">Force Update</string>
+	<string name="commit_content">commit content</string>
+	<string name="update_content">update content</string>
+	<string name="element_name">"Name "</string>
+	<string name="network_username">"UserName "</string>
+	<string name="network_group">"Group "</string>
+	<string name="network_address">"Address "</string>
+	<string name="network_size">"Size "</string>
+	<string name="network_ispublic">"Public "</string>
+	<string name="network_id">Network id</string>
+	<string name="storage_name">&quot;Name&quot;</string>
+	<string name="storage_username">&quot;User Name&quot;</string>
+	<string name="storage_group">&quot;Group&quot;</string>
+	<string name="storage_state">&quot;State&quot;</string>
+	<string name="storage_type">&quot;Type&quot;</string>
+	<string name="storage_size">&quot;Size&quot;</string>
+	<string name="storage_fstype">FS Type</string>
+	<string name="storage_id">Storage id</string>
+	<string name="storage_ispublic">&quot;Public&quot;</string>
+	<string name="storage_ispersistant">&quot;Persistent&quot;</string>
+	<string name="button_ok">OK</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_true">True</string>
+    <string name="show_networks">show networks</string>
+    <string name="show_storages">show storages</string>
+    <string name="create_compute">Create Compute</string>
+    <string name="commit_to_server">Commit To Server</string>
+</resources>
