@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CLOUD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="login_please">Login Please</string>
+    <string name="title_activity_manage_computes">ManageComputes</string>
+	<string name="list_networks">List Networks</string>
+	<string name="list_storages">List Storages</string>
+	<string name="list_computes">List Computes</string>
+	<string name="list_instances">List Instances</string>
+	<string name="uid">uid</string>
+	<string name="manage_networks">manage networks</string>
+</resources>

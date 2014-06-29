@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="default_port_number" format="string" type="integer"></item>
+    <item name="default_protocol" format="string" type="string">https</item>
+	<item name="default_server_name" format="string" type = "string">cloud.c3lab.tk.jku.at</item>
+	<item name = "default_application_context" format="string" type="string">occi</item>
+	 <item name="view_tag_holder" type="id">1</item>
+</resources>
