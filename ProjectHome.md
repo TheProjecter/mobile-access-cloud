@@ -1,0 +1,1 @@
+This project is about accessing a nebula cloud interface from the mobile device. In the current implementation one can view all the hardware available on the cloud and aside from that one can create a virtual machine on the cloud.
